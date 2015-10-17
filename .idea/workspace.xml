@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7faf278-a4fd-440c-a159-23322c42698b" name="Default" comment="" />
+    <list default="true" id="f7faf278-a4fd-440c-a159-23322c42698b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/B9IpW7TFfCQ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/bootstrap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/cat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/gulp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/jquery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/nav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/ps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/yeoman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/bower.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/css3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/git.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/hexagon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/html.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/jquery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/js.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/images/responsive-design.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/scripts/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/scripts/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/scripts/vendor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +63,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.2727275">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="7" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <marker date="1445030907026" expanded="true" signature="368:519" placeholder="..." />
@@ -37,7 +76,7 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.890909">
+            <state vertical-scroll-proportion="0.0">
               <caret line="277" column="17" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
               <folding>
                 <element signature="e#225#302#0" expanded="false" />
@@ -83,11 +122,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.babel.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulpfile.babel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.675">
-              <caret line="158" column="20" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14629948">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,17 +145,17 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/images/hexagon.svg" />
         <option value="$PROJECT_DIR$/app/scripts/main.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
         <option value="$PROJECT_DIR$/gulpfile.babel.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -167,7 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
+              <option name="myItemId" value="Serhieieva.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,7 +237,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
@@ -199,6 +248,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -264,28 +314,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3336887" sideWeight="0.20759837" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20309168" sideWeight="0.7924016" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26439232" sideWeight="0.51664025" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22339304" sideWeight="0.48720682" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3336887" sideWeight="0.20759837" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3336887" sideWeight="0.7924016" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2231579" sideWeight="0.48720682" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26439232" sideWeight="0.51664025" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -299,11 +349,154 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="10000" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <marker date="1445030907026" expanded="true" signature="368:519" placeholder="..." />
+            <marker date="1445030907026" expanded="true" signature="461:487" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="277" column="17" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
+          <folding>
+            <element signature="e#225#302#0" expanded="false" />
+            <element signature="e#309#421#0" expanded="false" />
+            <element signature="e#618#761#0" expanded="false" />
+            <element signature="e#732#757#0" expanded="false" />
+            <element signature="e#774#1028#0" expanded="false" />
+            <element signature="e#1738#1915#0" expanded="false" />
+            <element signature="e#1930#2938#0" expanded="false" />
+            <element signature="e#2289#2454#0" expanded="false" />
+            <element signature="e#2472#2564#0" expanded="false" />
+            <element signature="e#2581#2653#0" expanded="false" />
+            <element signature="e#2669#2700#0" expanded="false" />
+            <element signature="e#2875#2932#0" expanded="false" />
+            <element signature="e#3198#3313#0" expanded="false" />
+            <element signature="e#3320#3412#0" expanded="false" />
+            <element signature="e#3425#3518#0" expanded="false" />
+            <element signature="e#3532#3724#0" expanded="false" />
+            <element signature="e#3639#3720#0" expanded="false" />
+            <element signature="e#3736#10793#0" expanded="false" />
+            <element signature="e#10809#10877#0" expanded="false" />
+            <element signature="e#10896#10965#0" expanded="false" />
+            <element signature="e#10982#11051#0" expanded="false" />
+            <element signature="e#11067#11137#0" expanded="false" />
+            <element signature="e#11146#11451#0" expanded="false" />
+            <element signature="e#11221#11298#0" expanded="false" />
+            <element signature="e#11310#11332#0" expanded="false" />
+            <element signature="e#11338#11411#0" expanded="false" />
+            <element signature="e#11423#11448#0" expanded="false" />
+            <element signature="e#11556#11720#0" expanded="false" />
+            <element signature="e#11682#11714#0" expanded="false" />
+            <element signature="e#12791#12826#0" expanded="false" />
+            <element signature="e#12849#12885#0" expanded="false" />
+            <element signature="e#12959#13311#0" expanded="false" />
+            <element signature="e#12974#13309#0" expanded="false" />
+            <element signature="e#13018#13305#0" expanded="false" />
+            <element signature="e#13035#13299#0" expanded="false" />
+            <element signature="e#13076#13115#0" expanded="false" />
+            <element signature="e#13157#13197#0" expanded="false" />
+            <element signature="e#13223#13291#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <marker date="1445030907026" expanded="true" signature="368:519" placeholder="..." />
+            <marker date="1445030907026" expanded="true" signature="461:487" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="277" column="17" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
+          <folding>
+            <element signature="e#225#302#0" expanded="false" />
+            <element signature="e#309#421#0" expanded="false" />
+            <element signature="e#618#761#0" expanded="false" />
+            <element signature="e#732#757#0" expanded="false" />
+            <element signature="e#774#1028#0" expanded="false" />
+            <element signature="e#1738#1915#0" expanded="false" />
+            <element signature="e#1930#2938#0" expanded="false" />
+            <element signature="e#2289#2454#0" expanded="false" />
+            <element signature="e#2472#2564#0" expanded="false" />
+            <element signature="e#2581#2653#0" expanded="false" />
+            <element signature="e#2669#2700#0" expanded="false" />
+            <element signature="e#2875#2932#0" expanded="false" />
+            <element signature="e#3198#3313#0" expanded="false" />
+            <element signature="e#3320#3412#0" expanded="false" />
+            <element signature="e#3425#3518#0" expanded="false" />
+            <element signature="e#3532#3724#0" expanded="false" />
+            <element signature="e#3639#3720#0" expanded="false" />
+            <element signature="e#3736#10793#0" expanded="false" />
+            <element signature="e#10809#10877#0" expanded="false" />
+            <element signature="e#10896#10965#0" expanded="false" />
+            <element signature="e#10982#11051#0" expanded="false" />
+            <element signature="e#11067#11137#0" expanded="false" />
+            <element signature="e#11146#11451#0" expanded="false" />
+            <element signature="e#11221#11298#0" expanded="false" />
+            <element signature="e#11310#11332#0" expanded="false" />
+            <element signature="e#11338#11411#0" expanded="false" />
+            <element signature="e#11423#11448#0" expanded="false" />
+            <element signature="e#11556#11720#0" expanded="false" />
+            <element signature="e#11682#11714#0" expanded="false" />
+            <element signature="e#12791#12826#0" expanded="false" />
+            <element signature="e#12849#12885#0" expanded="false" />
+            <element signature="e#12959#13311#0" expanded="false" />
+            <element signature="e#12974#13309#0" expanded="false" />
+            <element signature="e#13018#13305#0" expanded="false" />
+            <element signature="e#13035#13299#0" expanded="false" />
+            <element signature="e#13076#13115#0" expanded="false" />
+            <element signature="e#13157#13197#0" expanded="false" />
+            <element signature="e#13223#13291#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -663,13 +856,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17171717">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2727275">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="7" />
           <folding>
             <marker date="1445030907026" expanded="true" signature="368:519" placeholder="..." />
@@ -680,7 +872,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.890909">
+        <state vertical-scroll-proportion="0.0">
           <caret line="277" column="17" selection-start-line="277" selection-start-column="17" selection-end-line="277" selection-end-column="17" />
           <folding>
             <element signature="e#225#302#0" expanded="false" />
@@ -727,8 +919,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.675">
-          <caret line="158" column="20" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="28" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14629948">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
