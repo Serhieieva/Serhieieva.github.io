@@ -48,9 +48,24 @@ gulp.task('html', ['styles'], () => {
     .pipe(assets)
     .pipe($.if('*.js', $.uglify()))
     .pipe($.if('*.css', $.uncss({
-      html: ['app/index.html'],
+      html: ['http://localhost:9000/'],
       ignore: [
-        '.fade.in'
+        ".fade",
+        ".fade.in",
+        ".collapse",
+        ".collapse.in",
+        ".collapsing",
+        ".modal",
+        ".modal.fade.in",
+        ".modal-dialog",
+        ".modal-scrollbar-measure",
+        ".modal-backdrop.fade",
+        ".modal-backdrop.in",
+        ".modal.fade.modal-dialog",
+        ".modal.in.modal-dialog",
+        ".modal-open",
+        ".in",
+        ".modal-backdrop"
       ]
     })))
     .pipe($.if('*.css', $.minifyCss({compatibility: '*', keepSpecialComments: 0})))
