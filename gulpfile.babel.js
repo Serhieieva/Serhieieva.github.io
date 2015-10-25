@@ -49,9 +49,11 @@ gulp.task('html', ['styles'], () => {
     .pipe($.if('*.js', $.uglify()))
     .pipe($.if('*.css', $.uncss({
       html: ['app/index.html'],
-      ignore: ['/in/']
+      ignore: [
+        '.fade.in'
+      ]
     })))
-    .pipe($.if('*.css', $.minifyCss({compatibility: '*'})))
+    .pipe($.if('*.css', $.minifyCss({compatibility: '*', keepSpecialComments: 0})))
     .pipe(assets.restore())
     .pipe($.useref())
     .pipe($.if('*.html', $.minifyHtml({conditionals: true, loose: true})))
@@ -60,11 +62,6 @@ gulp.task('html', ['styles'], () => {
 
 gulp.task('images', ['svg'], () => {
   return gulp.src(['app/images/**/*.jpg', 'app/images/**/*.png'])
-    .pipe($.if($.if.isFile, $.cache($.tinypng('ZKMKCHw5orM0pE1UBz13ziJ0E38pZGUm'))
-    .on('error', function (err) {
-      console.log(err);
-      this.end();
-    })))
     .pipe($.tinypng('ZKMKCHw5orM0pE1UBz13ziJ0E38pZGUm'))
     .pipe(gulp.dest('dist/images'));
 });
