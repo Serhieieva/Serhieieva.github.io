@@ -48,14 +48,13 @@ gulp.task('html', ['styles'], () => {
     .pipe(assets)
     .pipe($.if('*.js', $.uglify()))
     .pipe($.if('*.css', $.uncss({
-      html: ['app/index.html']
+      html: ['app/index.html'],
+      ignore: ['/in/']
     })))
     .pipe($.if('*.css', $.minifyCss({compatibility: '*'})))
     .pipe(assets.restore())
     .pipe($.useref())
     .pipe($.if('*.html', $.minifyHtml({conditionals: true, loose: true})))
-    /*.pipe($.buster())
-    .pipe($.gzip())*/
     .pipe(gulp.dest('dist'));
 });
 
