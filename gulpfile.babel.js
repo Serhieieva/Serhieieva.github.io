@@ -47,26 +47,31 @@ gulp.task('html', ['styles'], () => {
   return gulp.src('app/*.html')
     .pipe(assets)
     .pipe($.if('*.js', $.uglify()))
+    .pipe($.if('*.css', $.uncss({
+      html: ['app/index.html']
+    })))
     .pipe($.if('*.css', $.minifyCss({compatibility: '*'})))
     .pipe(assets.restore())
     .pipe($.useref())
     .pipe($.if('*.html', $.minifyHtml({conditionals: true, loose: true})))
+    /*.pipe($.buster())
+    .pipe($.gzip())*/
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('images', () => {
-  return gulp.src('app/images/**/*')
-    .pipe($.if($.if.isFile, $.cache($.imagemin({
-      progressive: true,
-      interlaced: true,
-      // don't remove IDs from SVGs, they are often used
-      // as hooks for embedding and styling
-      svgoPlugins: [{cleanupIDs: false}]
-    }))
+gulp.task('images', ['svg'], () => {
+  return gulp.src(['app/images/**/*.jpg', 'app/images/**/*.png'])
+    .pipe($.if($.if.isFile, $.cache($.tinypng('ZKMKCHw5orM0pE1UBz13ziJ0E38pZGUm'))
     .on('error', function (err) {
       console.log(err);
       this.end();
     })))
+    .pipe($.tinypng('ZKMKCHw5orM0pE1UBz13ziJ0E38pZGUm'))
+    .pipe(gulp.dest('dist/images'));
+});
+
+gulp.task('svg', () => {
+  return gulp.src('app/images/**/*.svg')
     .pipe(gulp.dest('dist/images'));
 });
 
