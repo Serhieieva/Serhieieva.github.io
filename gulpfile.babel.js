@@ -55,17 +55,9 @@ gulp.task('html', ['styles'], () => {
         '.collapse',
         '.collapse.in',
         '.collapsing',
-        '.modal',
-        '.modal.fade.in',
-        '.modal-dialog',
-        '.modal-scrollbar-measure',
-        '.modal-backdrop.fade',
-        '.modal-backdrop.in',
-        '.modal.fade.modal-dialog',
-        '.modal.in.modal-dialog',
-        '.modal-open',
         '.in',
-        '.modal-backdrop'
+        '.modal-backdrop',
+        /modal/
       ]
     })))
     .pipe($.if('*.css', $.minifyCss({compatibility: '*', keepSpecialComments: 0})))
